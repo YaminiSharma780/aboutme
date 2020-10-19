@@ -8,7 +8,7 @@ Skills:
           
 Volunteering:
             Official Member of Mozilla Chandigarh Community, 
-            National Service Schemem (NSS), 
+            National Service Scheme (NSS), 
             Student Member of Indian Society for Technical Education (ISTE).
           
 Experience: 
