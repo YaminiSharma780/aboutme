@@ -1,18 +1,21 @@
 # githubuser.github.io
 About me.
 Hey reader, I am Yamini Sharma, a github user and open source contributor. 
-I am undergraduate in Computer Science Engineering from Rajasthan Technical University, Kota, India.
+Currently working as an Analyst in HCL Technologies, Noida. I gradutaed in Computer Science Engineering from Rajasthan Technical University, Kota, India.
 
 Skills:
-       C, C++, Java, Python, MySQL, Github, Data Analytics, Data Structures and Algorithms.
+       C, C++, Java, Flutter, DBMS, Github, Data Structures and Algorithms, Networking.
+         
           
+Experience:   1. HCL Tech, India || Analyst || 2 years 3 months
+              2. Leafkart, India || Mobile App Development Intern || 5 months
+              3. Airtel, India || Java Developement Intern || 2 months Internship
+              
+              
 Volunteering:
             Official Member of Mozilla Chandigarh Community, 
             National Service Scheme (NSS), 
             Student Member of Indian Society for Technical Education (ISTE).
-          
-Experience: 
-              Airtel, India (2 months Internship)
 
 
 Linkedin Profile --> https://www.linkedin.com/in/yamini-sharma-780
