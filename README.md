@@ -7,9 +7,12 @@ Skills:
        C, C++, Java, Flutter, DBMS, Github, Data Structures and Algorithms, Networking.
          
           
-Experience:   1. HCL Tech, India || Analyst || 2 years 3 months
-              2. Leafkart, India || Mobile App Development Intern || 5 months
-              3. Airtel, India || Java Developement Intern || 2 months Internship
+Experience:   
+1. HCL Tech, India || Analyst || 2 years 3 months
+
+2. Leafkart, India || Mobile App Development Intern || 5 months
+
+3. Airtel, India || Java Development Intern || 2 months Internship
               
               
 Volunteering:
