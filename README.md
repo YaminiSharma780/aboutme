@@ -8,7 +8,7 @@ Skills:
          
           
 Experience:   
-1. HCL Tech, India || Analyst || 2 years 3 months
+1. HCL Tech, India || Analyst || 2 years 6 months
 
 2. Leafkart, India || Mobile App Development Intern || 5 months
 
