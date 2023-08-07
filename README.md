@@ -1,10 +1,10 @@
 # githubuser.github.io
 About me.
-Hey reader, I am Yamini Sharma, a github user and open source contributor. 
+Hey reader, I am Yamini Sharma, a github user and developer. 
 Currently working as an Analyst in HCL Technologies, Noida. I gradutaed in Computer Science Engineering from Rajasthan Technical University, Kota, India.
 
 Skills:
-       C, C++, Java, Flutter, DBMS, Github, Data Structures and Algorithms, Networking.
+       C, C++, DSA, Java, HTML, CSS, JavaScript, React, Flutter, Git and GitHub, DBMS, Networking.
          
           
 Experience:   
